@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: */tag/*
+Disallow: */author/* 
+Disallow: */category/*     
+
+Sitemap: https://www.fsl11.com/sitemap.xml
